@@ -2,7 +2,7 @@
 I'm currently on vacation 🧗‍♀️
 Code is generated automatically when I sleep😴
 
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=AiKiAi-stack&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default&custom_title=I love vacation"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiKiAi-stack&theme=dark&show_icons=true)
 <!--
 **AiKiAi-stack/AiKiAi-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
